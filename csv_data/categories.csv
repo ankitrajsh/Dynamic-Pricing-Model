@@ -1,0 +1,51 @@
+category_id,category_name,parent_category_id,description,created_at,updated_at
+1,Electronics,,Electronics and related products,2024-11-23 15:12:40.765292,2025-12-05 15:12:40.765308
+2,Clothing,,Clothing and related products,2023-06-30 15:12:40.765310,2025-12-05 15:12:40.765313
+3,Home & Garden,,Home & Garden and related products,2024-10-20 15:12:40.765314,2025-12-05 15:12:40.765316
+4,Sports & Outdoors,,Sports & Outdoors and related products,2023-11-01 15:12:40.765317,2025-12-05 15:12:40.765318
+5,Books,,Books and related products,2024-05-29 15:12:40.765318,2025-12-05 15:12:40.765320
+6,Health & Beauty,,Health & Beauty and related products,2024-05-18 15:12:40.765321,2025-12-05 15:12:40.765322
+7,Toys & Games,,Toys & Games and related products,2024-01-26 15:12:40.765323,2025-12-05 15:12:40.765324
+8,Automotive,,Automotive and related products,2023-04-27 15:12:40.765324,2025-12-05 15:12:40.765326
+9,Food & Grocery,,Food & Grocery and related products,2024-01-10 15:12:40.765326,2025-12-05 15:12:40.765328
+10,Office Supplies,,Office Supplies and related products,2023-03-03 15:12:40.765329,2025-12-05 15:12:40.765330
+11,Pet Supplies,,Pet Supplies and related products,2023-01-11 15:12:40.765330,2025-12-05 15:12:40.765332
+12,Jewelry,,Jewelry and related products,2023-02-12 15:12:40.765332,2025-12-05 15:12:40.765333
+13,Baby Products,,Baby Products and related products,2023-07-12 15:12:40.765334,2025-12-05 15:12:40.765335
+14,Tools & Hardware,,Tools & Hardware and related products,2024-11-15 15:12:40.765335,2025-12-05 15:12:40.765336
+15,Music & Instruments,,Music & Instruments and related products,2024-02-04 15:12:40.765337,2025-12-05 15:12:40.765338
+16,Kids Toys & Games,7.0,Kids Toys & Games products,2024-12-01 15:12:40.765341,2025-12-05 15:12:40.765342
+17,Beginner Clothing,2.0,Beginner Clothing products,2025-01-23 15:12:40.765345,2025-12-05 15:12:40.765346
+18,Compact Health & Beauty,6.0,Compact Health & Beauty products,2024-12-13 15:12:40.765348,2025-12-05 15:12:40.765349
+19,Outdoor Music & Instruments,15.0,Outdoor Music & Instruments products,2025-01-10 15:12:40.765350,2025-12-05 15:12:40.765351
+20,Beginner Health & Beauty,6.0,Beginner Health & Beauty products,2024-05-27 15:12:40.765353,2025-12-05 15:12:40.765354
+21,Budget Tools & Hardware,14.0,Budget Tools & Hardware products,2025-04-17 15:12:40.765355,2025-12-05 15:12:40.765356
+22,Kids Tools & Hardware,14.0,Kids Tools & Hardware products,2024-12-12 15:12:40.765357,2025-12-05 15:12:40.765358
+23,Wireless Electronics,1.0,Wireless Electronics products,2025-01-04 15:12:40.765359,2025-12-05 15:12:40.765360
+24,Beginner Pet Supplies,11.0,Beginner Pet Supplies products,2025-04-23 15:12:40.765361,2025-12-05 15:12:40.765363
+25,Large Automotive,8.0,Large Automotive products,2024-01-12 15:12:40.765364,2025-12-05 15:12:40.765365
+26,Premium Electronics,1.0,Premium Electronics products,2024-09-02 15:12:40.765366,2025-12-05 15:12:40.765367
+27,Professional Jewelry,12.0,Professional Jewelry products,2025-05-10 15:12:40.765368,2025-12-05 15:12:40.765369
+28,Premium Pet Supplies,11.0,Premium Pet Supplies products,2024-09-05 15:12:40.765370,2025-12-05 15:12:40.765371
+29,Outdoor Food & Grocery,9.0,Outdoor Food & Grocery products,2024-03-02 15:12:40.765373,2025-12-05 15:12:40.765374
+30,Indoor Books,5.0,Indoor Books products,2024-02-28 15:12:40.765375,2025-12-05 15:12:40.765376
+31,Large Music & Instruments,15.0,Large Music & Instruments products,2025-01-08 15:12:40.765377,2025-12-05 15:12:40.765378
+32,Mens Food & Grocery,9.0,Mens Food & Grocery products,2024-04-09 15:12:40.765379,2025-12-05 15:12:40.765380
+33,Smart Books,5.0,Smart Books products,2025-02-24 15:12:40.765382,2025-12-05 15:12:40.765383
+34,Budget Jewelry,12.0,Budget Jewelry products,2024-08-17 15:12:40.765384,2025-12-05 15:12:40.765385
+35,Unisex Food & Grocery,9.0,Unisex Food & Grocery products,2024-03-12 15:12:40.765386,2025-12-05 15:12:40.765387
+36,Kids Toys & Games,7.0,Kids Toys & Games products,2024-03-10 15:12:40.765388,2025-12-05 15:12:40.765389
+37,Mens Health & Beauty,6.0,Mens Health & Beauty products,2024-10-20 15:12:40.765390,2025-12-05 15:12:40.765391
+38,Premium Books,5.0,Premium Books products,2024-02-26 15:12:40.765392,2025-12-05 15:12:40.765392
+39,Indoor Electronics,1.0,Indoor Electronics products,2025-04-06 15:12:40.765393,2025-12-05 15:12:40.765394
+40,Womens Sports & Outdoors,4.0,Womens Sports & Outdoors products,2024-03-24 15:12:40.765395,2025-12-05 15:12:40.765396
+41,Outdoor Tools & Hardware,14.0,Outdoor Tools & Hardware products,2025-04-24 15:12:40.765398,2025-12-05 15:12:40.765399
+42,Kids Baby Products,13.0,Kids Baby Products products,2024-10-16 15:12:40.765400,2025-12-05 15:12:40.765401
+43,Large Pet Supplies,11.0,Large Pet Supplies products,2025-03-09 15:12:40.765402,2025-12-05 15:12:40.765403
+44,Womens Food & Grocery,9.0,Womens Food & Grocery products,2024-06-11 15:12:40.765404,2025-12-05 15:12:40.765405
+45,Professional Toys & Games,7.0,Professional Toys & Games products,2024-12-13 15:12:40.765406,2025-12-05 15:12:40.765407
+46,Beginner Baby Products,13.0,Beginner Baby Products products,2025-03-15 15:12:40.765408,2025-12-05 15:12:40.765409
+47,Outdoor Music & Instruments,15.0,Outdoor Music & Instruments products,2025-01-07 15:12:40.765412,2025-12-05 15:12:40.765413
+48,Wireless Office Supplies,10.0,Wireless Office Supplies products,2025-01-09 15:12:40.765414,2025-12-05 15:12:40.765415
+49,Premium Music & Instruments,15.0,Premium Music & Instruments products,2024-02-09 15:12:40.765416,2025-12-05 15:12:40.765417
+50,Unisex Health & Beauty,6.0,Unisex Health & Beauty products,2025-02-04 15:12:40.765418,2025-12-05 15:12:40.765419

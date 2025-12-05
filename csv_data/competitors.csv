@@ -1,0 +1,21 @@
+competitor_id,competitor_name,website_url,is_active,market_position,created_at
+1,Amazon,https://www.amazon.com,True,premium,2024-12-05 15:12:42.368473
+2,Walmart,https://www.walmart.com,True,premium,2024-12-05 15:12:42.368489
+3,Target,https://www.target.com,True,budget,2024-12-05 15:12:42.368492
+4,Best Buy,https://www.bestbuy.com,True,mid-range,2024-12-05 15:12:42.368494
+5,eBay,https://www.ebay.com,True,budget,2024-12-05 15:12:42.368495
+6,AliExpress,https://www.aliexpress.com,True,budget,2024-12-05 15:12:42.368497
+7,Costco,https://www.costco.com,True,premium,2024-12-05 15:12:42.368498
+8,HomeDepot,https://www.homedepot.com,True,mid-range,2024-12-05 15:12:42.368499
+9,Lowes,https://www.lowes.com,True,mid-range,2024-12-05 15:12:42.368500
+10,Wayfair,https://www.wayfair.com,True,budget,2024-12-05 15:12:42.368501
+11,Overstock,https://www.overstock.com,True,premium,2024-12-05 15:12:42.368503
+12,NewEgg,https://www.newegg.com,True,premium,2024-12-05 15:12:42.368504
+13,BHPhoto,https://www.bhphoto.com,True,mid-range,2024-12-05 15:12:42.368505
+14,MicroCenter,https://www.microcenter.com,True,budget,2024-12-05 15:12:42.368506
+15,Staples,https://www.staples.com,True,premium,2024-12-05 15:12:42.368507
+16,OfficeDepot,https://www.officedepot.com,True,mid-range,2024-12-05 15:12:42.368508
+17,Sears,https://www.sears.com,True,premium,2024-12-05 15:12:42.368509
+18,Macys,https://www.macys.com,True,premium,2024-12-05 15:12:42.368510
+19,Kohls,https://www.kohls.com,True,budget,2024-12-05 15:12:42.368511
+20,JCPenney,https://www.jcpenney.com,True,mid-range,2024-12-05 15:12:42.368512
